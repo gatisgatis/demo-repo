@@ -1,2 +1,2 @@
-Learing git, material ui, mapbox, etc
+Learning git, material ui, mapbox, etc
 
